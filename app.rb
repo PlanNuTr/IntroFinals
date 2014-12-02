@@ -1,4 +1,3 @@
-# app.rb
 # Nuntuchaporn Trongsiriwat 5631267321
 
 require 'rspec'

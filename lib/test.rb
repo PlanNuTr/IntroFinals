@@ -1,6 +1,3 @@
-#test.rb
-
-#Put your code in this class
 class Test
 	def initialize()  
 		#This make you able to Test.new()

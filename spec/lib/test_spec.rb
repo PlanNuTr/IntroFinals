@@ -1,4 +1,3 @@
-#test_spec.rb
 require "test"
 require "spec_helper"
 
